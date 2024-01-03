@@ -4,6 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 #This is our yaml pipeline
 #cross check CI
+#check it
 
 trigger:
 - master
